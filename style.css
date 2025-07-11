@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Sam Productions</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #111;
+      color: #fff;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      padding: 2rem;
+    }
+    img {
+      max-width: 90%;
+      height: auto;
+      border-radius: 8px;
+    }
+    footer {
+      margin-top: 2rem;
+      padding: 1rem;
+      background-color: #222;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Sam Productions</h1>
+    <p>Produção audiovisual com criatividade e tecnologia.</p>
+  </header>
+
+  <main>
+    <img src="images/capa.jpg" alt="Estúdio iluminado em vermelho">
+    <p>Nosso estúdio preparado para gravações incríveis.</p>
+  </main>
+
+  <footer>
+    &copy; 2025 Sam Productions - Todos os direitos reservados.
+  </footer>
+</body>
+</html>
